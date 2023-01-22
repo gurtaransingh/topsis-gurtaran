@@ -1,0 +1,11 @@
+LICENCE
+MANIFEST.in
+README.md
+setup.py
+topsis/__init__.py
+topsis/__main__.py
+topsis_gurtaran_102003220.egg-info/PKG-INFO
+topsis_gurtaran_102003220.egg-info/SOURCES.txt
+topsis_gurtaran_102003220.egg-info/dependency_links.txt
+topsis_gurtaran_102003220.egg-info/entry_points.txt
+topsis_gurtaran_102003220.egg-info/top_level.txt
